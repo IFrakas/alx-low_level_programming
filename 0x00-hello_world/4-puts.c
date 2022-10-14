@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - print a line using stdio.h puts only
+ * main -print a line using stdio.h puts only
  * return: 0
  */
 

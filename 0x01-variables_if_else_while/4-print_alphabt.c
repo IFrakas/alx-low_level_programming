@@ -10,7 +10,7 @@ int main(void)
 
 	for (g = 'a'; g <= 'z'; g++)
 {
-	if (a == 'q' || a == 'e')
+	if (g == 'q' || g == 'e')
 	{
 		continue;
 	}

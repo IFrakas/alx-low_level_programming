@@ -1,8 +1,7 @@
 #include "main.h"
-
 /**
- * print_last_digit - print last digit of an integer
- * @h: the integer to compute
+ * print_last_digit - prints the last digit of an int
+ * @h:the number to compute an integer
  * Return: las digit
  */
 int print_last_digit(int h)
